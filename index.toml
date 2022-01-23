@@ -5,6 +5,70 @@ file = "LICENSE"
 hash = "aa88dcd0f8c75cbbf5a7a31b5911c066ecce8130b6d7548a8f2fe1931c5b840f"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "83f041247028bf5cb5518592c833ca2dfc4beacfc4a5c5b4d611f775876b55df"
+
+[[files]]
+file = "config/dark-enchanting.json5"
+hash = "2909a24309364ee6f96ae2a9533021d9e160d7252bfd7c0249afe0d85d77cdfc"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "81e33f427facb82fcdf95c35330467404e905ac25b923dc52bc2132edd983547"
+
+[[files]]
+file = "config/iris.properties"
+hash = "cebadf44cae1dee411df0ce9b339b8c37418f306259934e8676a860717c6db09"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "1753710327be71999f8afa956878cb64c04645e62bbbc09dbc1d0c92780f0d41"
+
+[[files]]
+file = "config/libgui.json5"
+hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "503f96151dab202359895d267084c5ca81604cf9a3455446c20a5c0c69ec7cdb"
+
+[[files]]
+file = "config/replaymod.json"
+hash = "8620da404458ced00762d398aa157bf0af60f5245f6a7b0b166c1968dfb3a88f"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "85dd759f5bc6b6ea323a25146ce629f56fa445f29441704036ca747724dcc4e5"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
+
+[[files]]
+file = "config/waystones/config.json"
+hash = "451b8d112f785cf96efef08bb4a5ad9f1442fac2405a5687c8c590b1fdbca89b"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "071d931b15d4aae573c709aeaa327a23916fe43d40eeb1ae78ed6f4679a8b1a3"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "8dda0da806125665a9256a1e83a39acdaab36198bf97cdf72f8336d851079bb7"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "6e15dc7c6806404cf0c30712fcac65e02e6ecf0ab338932289666eb940e950ca"
+
+[[files]]
 file = "mods/architectury-fabric.toml"
 hash = "5c87334b84ed36f60b1729c24daabf8975c2f1062bde04429c38d893c27da13b"
 metafile = true
@@ -83,3 +147,7 @@ metafile = true
 file = "mods/xaeros-world-map.toml"
 hash = "619d24abd4bd987bec0f8521ccb381f1aa4bf28f23ce4ab11c61860f12fa972b"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "d01b0f41a09a698783cac94775724db97d8bb25b034a3fa89110d4034e2abb38"
