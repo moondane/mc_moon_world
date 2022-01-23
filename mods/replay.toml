@@ -1,0 +1,8 @@
+name = "ReplayMod"
+filename = "replaymod-1.18.1-2.6.3.jar"
+side = "client"
+
+[download]
+url = "https://minio.replaymod.com/replaymod/replaymod-1.18.1-2.6.3.jar"
+hash-format = "sha256"
+hash = "f660141c2aba44b474093e53420c086e7823b0b4d8d0003f9eabb2c0f10bcfe9"

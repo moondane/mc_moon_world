@@ -1,0 +1,75 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "aa88dcd0f8c75cbbf5a7a31b5911c066ecce8130b6d7548a8f2fe1931c5b840f"
+
+[[files]]
+file = "mods/architectury-fabric.toml"
+hash = "5c87334b84ed36f60b1729c24daabf8975c2f1062bde04429c38d893c27da13b"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.toml"
+hash = "608b262bb8e6bcbec23c81807c24d8d87bbd33242a6cd79ab87d701bd2fa325e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
+metafile = true
+
+[[files]]
+file = "mods/dark-enchanting.toml"
+hash = "d7ad81561dec81468ee0afcc57f416ea396eb4f8dd6706d659a7133c9b9668a5"
+metafile = true
+
+[[files]]
+file = "mods/drink-beer-fabric.toml"
+hash = "bce823ecd839c306c3c0df314358bce49837d225de66f4379f9d70a370d92850"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "fddae77c9ef535807b9e347d8ad3d74f13ad6e3350b6d5499366d140dd0832f3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-waystones.toml"
+hash = "97e429a76c84a6edc11c5120e86f9f10872a37555477b494676677753da3fa78"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.toml"
+hash = "d66fe33e59831d85fcde0e7feee237c4c56981162f5ffb645fb63c3594922f25"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "65f0ba997f895883d8183347e16a38b01d8308b7bef10d53381cdf96b4409e0e"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "af33a101b5bee2ff06a9633de4fbc70e91eae4599d2590822297ed04f9b17db9"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "99643f1cec9c2261289fd80d6c21d8c4cbb843850f72468cad6fc50b68150864"
+metafile = true
+
+[[files]]
+file = "mods/replay.toml"
+hash = "7efa4600cd12222eae18a8f3653897ff09ce8eac09d6e71752d258464c62588e"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "3fe8faaf1f791842046d9d478c4b63962cc975378021ce91962933f140a5947e"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "948d49197c769a8516d1521d66fee25c4b519da82e500003846423f7190b15c4"
+metafile = true

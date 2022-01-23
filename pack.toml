@@ -1,0 +1,13 @@
+name = "Mc Moon World"
+author = "moondane"
+version = "0.0.1"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ab4c463ca9824c1eb33aa2f19984cf0bca787601263d91270c3949b76952850f"
+
+[versions]
+fabric = "0.12.12"
+minecraft = "1.18.1"
