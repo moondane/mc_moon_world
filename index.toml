@@ -73,3 +73,13 @@ metafile = true
 file = "mods/sodium.toml"
 hash = "948d49197c769a8516d1521d66fee25c4b519da82e500003846423f7190b15c4"
 metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "faecb40337d9a31a8ae18bdb4875d96f09a07c3b8d050d6b2a8e1353ca613a3c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "619d24abd4bd987bec0f8521ccb381f1aa4bf28f23ce4ab11c61860f12fa972b"
+metafile = true
