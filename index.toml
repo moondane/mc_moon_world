@@ -50,7 +50,7 @@ hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
 
 [[files]]
 file = "config/waystones/config.json"
-hash = "ad2b3c38ce6051a6e1083893ca9a1706832b7b4b3e9c37934ea56410474b0873"
+hash = "e87b01f6405abc4bd66226e3656924100acc0c3f12fa587d1c0918347b5c9156"
 
 [[files]]
 file = "config/xaerominimap.txt"
