@@ -176,7 +176,3 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "d01b0f41a09a698783cac94775724db97d8bb25b034a3fa89110d4034e2abb38"
-
-[[files]]
-file = "update.sh"
-hash = "5598310658993f5478c5ef76a8fde0688c6197112ffc2689c374b73d94dfe4eb"

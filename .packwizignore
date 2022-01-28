@@ -17,3 +17,5 @@
 
 # Macos metadata
 *.DS_Store
+
+update.sh
