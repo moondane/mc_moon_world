@@ -1,0 +1,13 @@
+name = "Craftable Horse Armour & Saddle [CHA&S]"
+filename = "CHAS-1.18-1.8-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3542/387/CHAS-1.18-1.8-Fabric.jar"
+hash-format = "murmur2"
+hash = "2250277497"
+
+[update]
+[update.curseforge]
+file-id = 3542387
+project-id = 224841

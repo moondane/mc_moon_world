@@ -79,6 +79,11 @@ hash = "608b262bb8e6bcbec23c81807c24d8d87bbd33242a6cd79ab87d701bd2fa325e"
 metafile = true
 
 [[files]]
+file = "mods/cha-s.toml"
+hash = "1ab031b061841278d0ba6849940c3b954aeb7d7510ede6298cfdb48952770f3a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
 metafile = true
@@ -156,3 +161,7 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "d01b0f41a09a698783cac94775724db97d8bb25b034a3fa89110d4034e2abb38"
+
+[[files]]
+file = "update.sh"
+hash = "5598310658993f5478c5ef76a8fde0688c6197112ffc2689c374b73d94dfe4eb"
