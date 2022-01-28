@@ -109,6 +109,21 @@ hash = "97e429a76c84a6edc11c5120e86f9f10872a37555477b494676677753da3fa78"
 metafile = true
 
 [[files]]
+file = "mods/goblin-traders-fabric.toml"
+hash = "0bb93cc046bfe7628788295bd8e943293856cd5d3af1b4bc72888ad3c515eb4b"
+metafile = true
+
+[[files]]
+file = "mods/guild.toml"
+hash = "8c165e341c8ff52a71af85b0d10490030d3563e827f827d114267da95edde6ed"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.toml"
+hash = "1420e394eef1ef0eb75eec3341b11e311603c26f6fe3d4ed759654b14ecf998a"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.toml"
 hash = "d66fe33e59831d85fcde0e7feee237c4c56981162f5ffb645fb63c3594922f25"
 metafile = true
