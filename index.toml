@@ -124,6 +124,11 @@ hash = "8c165e341c8ff52a71af85b0d10490030d3563e827f827d114267da95edde6ed"
 metafile = true
 
 [[files]]
+file = "mods/infusion-table.toml"
+hash = "a96e9b3a3eb90227a9c71813c7bda83195a286b04c1067bcfed041648c9207c9"
+metafile = true
+
+[[files]]
 file = "mods/inventory-sorting.toml"
 hash = "1420e394eef1ef0eb75eec3341b11e311603c26f6fe3d4ed759654b14ecf998a"
 metafile = true
