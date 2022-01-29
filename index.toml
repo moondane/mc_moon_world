@@ -159,6 +159,11 @@ hash = "99643f1cec9c2261289fd80d6c21d8c4cbb843850f72468cad6fc50b68150864"
 metafile = true
 
 [[files]]
+file = "mods/quartz-elevator.toml"
+hash = "60d2eb97247e0d89eb75600157a8e81e43765217a21676a86a70646ec1ae68ec"
+metafile = true
+
+[[files]]
 file = "mods/replay.toml"
 hash = "7efa4600cd12222eae18a8f3653897ff09ce8eac09d6e71752d258464c62588e"
 metafile = true
