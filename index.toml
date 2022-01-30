@@ -70,7 +70,7 @@ hash = "6e15dc7c6806404cf0c30712fcac65e02e6ecf0ab338932289666eb940e950ca"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "5c87334b84ed36f60b1729c24daabf8975c2f1062bde04429c38d893c27da13b"
+hash = "493e5778aec8466422ed2553e761de8367e34057ed9043d00d427debce6b1dea"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "3fe8faaf1f791842046d9d478c4b63962cc975378021ce91962933f140a5947e"
+hash = "6fc5cf4d7cfbdd3fa6245ac24e4c43a20dbfc7fa582fbcae6bc85d680e868243"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "97aca316723b36cdd653517425862afbefce8e026054ed0b1e6ef1c02f1989f2"
+hash = "c086164287f9a633ae0e8152967e954327db0afdb4dcf4bb7ea166fa390c21bd"
 metafile = true
 
 [[files]]
