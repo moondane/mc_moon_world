@@ -69,6 +69,11 @@ file = "config/xaeroworldmap.txt"
 hash = "6e15dc7c6806404cf0c30712fcac65e02e6ecf0ab338932289666eb940e950ca"
 
 [[files]]
+file = "mods/appleskin.toml"
+hash = "ba1f962e329972d937452b1db563b5f1a8871ab5931604769ea4a8883a559a5a"
+metafile = true
+
+[[files]]
 file = "mods/architectury-fabric.toml"
 hash = "493e5778aec8466422ed2553e761de8367e34057ed9043d00d427debce6b1dea"
 metafile = true
@@ -99,6 +104,11 @@ hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
 metafile = true
 
 [[files]]
+file = "mods/clumps.toml"
+hash = "bcf6015b39caa1d6be765147a511ee8a1b579fa0d6b039728044b3735207ba8d"
+metafile = true
+
+[[files]]
 file = "mods/dark-enchanting.toml"
 hash = "d7ad81561dec81468ee0afcc57f416ea396eb4f8dd6706d659a7133c9b9668a5"
 metafile = true
@@ -106,6 +116,11 @@ metafile = true
 [[files]]
 file = "mods/drink-beer-fabric.toml"
 hash = "bce823ecd839c306c3c0df314358bce49837d225de66f4379f9d70a370d92850"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.toml"
+hash = "64224e46c4ff32e54fb192f50e15700c3ec625f1849a699e38f99c4f453bbdf3"
 metafile = true
 
 [[files]]
