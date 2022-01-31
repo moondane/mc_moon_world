@@ -104,6 +104,11 @@ hash = "bce823ecd839c306c3c0df314358bce49837d225de66f4379f9d70a370d92850"
 metafile = true
 
 [[files]]
+file = "mods/expanded-storage-fabric.toml"
+hash = "229b464d2e22521d35af774a44499cd71ee28280c851404b31f152c81e2e7d84"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "fddae77c9ef535807b9e347d8ad3d74f13ad6e3350b6d5499366d140dd0832f3"
 metafile = true
@@ -156,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "af33a101b5bee2ff06a9633de4fbc70e91eae4599d2590822297ed04f9b17db9"
+metafile = true
+
+[[files]]
+file = "mods/ninjaphenixs-container-library.toml"
+hash = "719521886d6200c235904c06c242d0c256eb3584cc7389366d4f087c57a6d99a"
 metafile = true
 
 [[files]]
