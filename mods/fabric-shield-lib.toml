@@ -1,0 +1,13 @@
+name = "Fabric Shield Lib"
+filename = "FabricShieldLib-1.4.5-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3544/625/FabricShieldLib-1.4.5-1.18.jar"
+hash-format = "murmur2"
+hash = "785526242"
+
+[update]
+[update.curseforge]
+file-id = 3544625
+project-id = 380649

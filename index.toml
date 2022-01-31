@@ -119,6 +119,11 @@ hash = "fddae77c9ef535807b9e347d8ad3d74f13ad6e3350b6d5499366d140dd0832f3"
 metafile = true
 
 [[files]]
+file = "mods/fabric-shield-lib.toml"
+hash = "bbb59be919a1e1749bd791f244caf2ad83d9869b4c8f25ed386de9306e91e0d3"
+metafile = true
+
+[[files]]
 file = "mods/fabric-waystones.toml"
 hash = "97e429a76c84a6edc11c5120e86f9f10872a37555477b494676677753da3fa78"
 metafile = true
