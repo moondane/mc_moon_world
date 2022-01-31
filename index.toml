@@ -74,6 +74,11 @@ hash = "493e5778aec8466422ed2553e761de8367e34057ed9043d00d427debce6b1dea"
 metafile = true
 
 [[files]]
+file = "mods/basic-shields-fabric.toml"
+hash = "5115f9d4e33b3ba8599932511ed9ae8af2db1e1b38ec52e07fc238fbb61070d3"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.toml"
 hash = "608b262bb8e6bcbec23c81807c24d8d87bbd33242a6cd79ab87d701bd2fa325e"
 metafile = true
