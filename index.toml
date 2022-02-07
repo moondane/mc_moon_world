@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "493e5778aec8466422ed2553e761de8367e34057ed9043d00d427debce6b1dea"
+hash = "95ededcb5f4b95bd68c42d4c43b7b051e29238d6b3bb6d8b4a92a4341135a1de"
 metafile = true
 
 [[files]]
@@ -125,12 +125,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "fddae77c9ef535807b9e347d8ad3d74f13ad6e3350b6d5499366d140dd0832f3"
+hash = "d6dc8d5291fb8952048f7eb52951eec5fbabdac5554d93b55cd6e0ea4b9aeafa"
 metafile = true
 
 [[files]]
 file = "mods/fabric-shield-lib.toml"
-hash = "bbb59be919a1e1749bd791f244caf2ad83d9869b4c8f25ed386de9306e91e0d3"
+hash = "64cd75d030bedcd9d94cbbbb0976360ea1ed8dc51b5ee79bb0c6bef80396820d"
 metafile = true
 
 [[files]]
@@ -205,12 +205,17 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "6fc5cf4d7cfbdd3fa6245ac24e4c43a20dbfc7fa582fbcae6bc85d680e868243"
+hash = "1e3965e82f0f22a9f50c263a806415d1182371a708432d841287c485acf7af13"
 metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
 hash = "948d49197c769a8516d1521d66fee25c4b519da82e500003846423f7190b15c4"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-fabric.toml"
+hash = "4bff6737922a7e793a56050a9ec935f656248096d59fadf75bbbaa02f0eb6f7c"
 metafile = true
 
 [[files]]
