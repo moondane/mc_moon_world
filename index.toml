@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
+hash = "61a15f37dbaee42076eb50b29b17279561ef44ec14208db6790c0c0981723823"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/goblin-traders-fabric.toml"
-hash = "0bb93cc046bfe7628788295bd8e943293856cd5d3af1b4bc72888ad3c515eb4b"
+hash = "996a72de7295106e3cef4bec6cce51d3c4269923cc2751677a5af5a53670f308"
 metafile = true
 
 [[files]]
@@ -220,12 +220,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "c086164287f9a633ae0e8152967e954327db0afdb4dcf4bb7ea166fa390c21bd"
+hash = "0043f049cfd71e8292be218f7adeed1adf2d4bd8af8b3187d71dbd406256bf8b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "96c8320ebe996a9ea817165c47049d4c2efe31006b715a17342323c95e51eaec"
+hash = "201c61da574c7e7443b44875cdabd456735a9d21119755cda12cd6d894ed9d34"
 metafile = true
 
 [[files]]
