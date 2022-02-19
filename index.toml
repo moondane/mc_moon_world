@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "95ededcb5f4b95bd68c42d4c43b7b051e29238d6b3bb6d8b4a92a4341135a1de"
+hash = "3ba30a8bf85f9e840d82f585cba9f833dc90e3e34053540dff7f6fdef8f2397f"
 metafile = true
 
 [[files]]
@@ -124,13 +124,18 @@ hash = "229b464d2e22521d35af774a44499cd71ee28280c851404b31f152c81e2e7d84"
 metafile = true
 
 [[files]]
+file = "mods/extra-alchemy.toml"
+hash = "6b913703a97f54f0fb6199f357f414a61f9a7eca4a9305799411f16119fcb106"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "d6dc8d5291fb8952048f7eb52951eec5fbabdac5554d93b55cd6e0ea4b9aeafa"
 metafile = true
 
 [[files]]
 file = "mods/fabric-shield-lib.toml"
-hash = "64cd75d030bedcd9d94cbbbb0976360ea1ed8dc51b5ee79bb0c6bef80396820d"
+hash = "7e381054eb70e5e17ecfd81c69e1880f601cc1a0edf6b3eab7139e2814fd0253"
 metafile = true
 
 [[files]]
@@ -185,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/ninjaphenixs-container-library.toml"
-hash = "719521886d6200c235904c06c242d0c256eb3584cc7389366d4f087c57a6d99a"
+hash = "4cd2bfaa4b64c657b0a35c8699cf67153765a073270dcf88472d58e5bdc0df58"
 metafile = true
 
 [[files]]
@@ -205,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "1e3965e82f0f22a9f50c263a806415d1182371a708432d841287c485acf7af13"
+hash = "df0dae75ea001f08aee698df84b74f9b83ce9e70982232549789db38ea6cb8c8"
 metafile = true
 
 [[files]]
