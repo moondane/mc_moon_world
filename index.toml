@@ -189,6 +189,11 @@ hash = "af33a101b5bee2ff06a9633de4fbc70e91eae4599d2590822297ed04f9b17db9"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.toml"
+hash = "8eceb25fbfc2e74a0f7ca9b2a6bb1eb483dc95b95a7a673a4b27eb0d28b1b4af"
+metafile = true
+
+[[files]]
 file = "mods/ninjaphenixs-container-library.toml"
 hash = "4cd2bfaa4b64c657b0a35c8699cf67153765a073270dcf88472d58e5bdc0df58"
 metafile = true
