@@ -229,6 +229,11 @@ hash = "4bff6737922a7e793a56050a9ec935f656248096d59fadf75bbbaa02f0eb6f7c"
 metafile = true
 
 [[files]]
+file = "mods/voidtotem-fabric.toml"
+hash = "c22056762b66ea270ba437e90a51a789d6888de01f27f3e1911c2b93eba07907"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.toml"
 hash = "0043f049cfd71e8292be218f7adeed1adf2d4bd8af8b3187d71dbd406256bf8b"
 metafile = true
