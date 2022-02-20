@@ -109,6 +109,11 @@ hash = "bcf6015b39caa1d6be765147a511ee8a1b579fa0d6b039728044b3735207ba8d"
 metafile = true
 
 [[files]]
+file = "mods/customizable-elytra-fabric.toml"
+hash = "d792aeeda88a3dbcf73a0853c68c88d2d4b02d808525ab9fa5e9c79f1779cf61"
+metafile = true
+
+[[files]]
 file = "mods/dark-enchanting.toml"
 hash = "d7ad81561dec81468ee0afcc57f416ea396eb4f8dd6706d659a7133c9b9668a5"
 metafile = true
