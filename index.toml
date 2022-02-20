@@ -119,6 +119,11 @@ hash = "bce823ecd839c306c3c0df314358bce49837d225de66f4379f9d70a370d92850"
 metafile = true
 
 [[files]]
+file = "mods/elytra-trinket-fabric.toml"
+hash = "5fd55ae664016de4dfbc907a4e2a5a7c941efb6996c4831604505655c4ae4931"
+metafile = true
+
+[[files]]
 file = "mods/expanded-storage-fabric.toml"
 hash = "229b464d2e22521d35af774a44499cd71ee28280c851404b31f152c81e2e7d84"
 metafile = true
