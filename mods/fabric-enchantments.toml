@@ -1,0 +1,13 @@
+name = "Fabric Enchantments"
+filename = "fabric-enchantments-0.7.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3619/740/fabric-enchantments-0.7.0.jar"
+hash-format = "murmur2"
+hash = "2028843355"
+
+[update]
+[update.curseforge]
+file-id = 3619740
+project-id = 498465

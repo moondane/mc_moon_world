@@ -144,6 +144,11 @@ hash = "d6dc8d5291fb8952048f7eb52951eec5fbabdac5554d93b55cd6e0ea4b9aeafa"
 metafile = true
 
 [[files]]
+file = "mods/fabric-enchantments.toml"
+hash = "f803efcb19f4beffa42327b76460ebff1f1ee0423261935a3d35a0327bba59c6"
+metafile = true
+
+[[files]]
 file = "mods/fabric-shield-lib.toml"
 hash = "7e381054eb70e5e17ecfd81c69e1880f601cc1a0edf6b3eab7139e2814fd0253"
 metafile = true
