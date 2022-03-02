@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "3ba30a8bf85f9e840d82f585cba9f833dc90e3e34053540dff7f6fdef8f2397f"
+hash = "a4f9d4a2bb6c3ca55085505462267d93e9f018d538cc2f14bd2b998ddf3a1f8d"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage-fabric.toml"
-hash = "229b464d2e22521d35af774a44499cd71ee28280c851404b31f152c81e2e7d84"
+hash = "08e8a7de1ecf8d263ad6f2205e60e802f44a377dba897bbf1dd78e539cce034a"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.toml"
-hash = "1420e394eef1ef0eb75eec3341b11e311603c26f6fe3d4ed759654b14ecf998a"
+hash = "d480d8d4758794d7f38ae6bb1de9c3e31ee26477702fe881d2f7dc9a8077c158"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "65f0ba997f895883d8183347e16a38b01d8308b7bef10d53381cdf96b4409e0e"
+hash = "d268008ce2c29982abbb2906891f5a4b2139c51c704f17eb0af52c6159a4801e"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "df0dae75ea001f08aee698df84b74f9b83ce9e70982232549789db38ea6cb8c8"
+hash = "693061bb93b6736bb42dcdac5832d28e79b97f6f42b16d982cc97e555f82a398"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "0043f049cfd71e8292be218f7adeed1adf2d4bd8af8b3187d71dbd406256bf8b"
+hash = "b46e401bca6e5d8a3845d7323731a1aa8cedece1428c899a991701a974080b9e"
 metafile = true
 
 [[files]]
