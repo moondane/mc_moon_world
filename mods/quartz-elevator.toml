@@ -1,13 +1,13 @@
 name = "Quartz Elevator"
-filename = "quartz-elevator-2.1.0+1.18.jar"
+filename = "quartz-elevator-2.1.1+1.18.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3614/704/quartz-elevator-2.1.0+1.18.jar"
+url = "https://edge.forgecdn.net/files/3670/913/quartz-elevator-2.1.1+1.18.jar"
 hash-format = "murmur2"
-hash = "1196542242"
+hash = "1363343206"
 
 [update]
 [update.curseforge]
-file-id = 3614704
+file-id = 3670913
 project-id = 442509

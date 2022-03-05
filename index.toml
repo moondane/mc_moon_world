@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "a4f9d4a2bb6c3ca55085505462267d93e9f018d538cc2f14bd2b998ddf3a1f8d"
+hash = "ffbaf2c501e3b3c1cc279b29b205eb04a5f79dcd4891cd584b6e00c5c082dc9f"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "d6dc8d5291fb8952048f7eb52951eec5fbabdac5554d93b55cd6e0ea4b9aeafa"
+hash = "42532e1814e1352caa38b2e7693343266a66e343835b120a40b566ae2115d6a0"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-shield-lib.toml"
-hash = "7e381054eb70e5e17ecfd81c69e1880f601cc1a0edf6b3eab7139e2814fd0253"
+hash = "6f63f8f70215837fa5e5d754753c9cccbd0e17014122132fb433dca4789740b6"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/quartz-elevator.toml"
-hash = "60d2eb97247e0d89eb75600157a8e81e43765217a21676a86a70646ec1ae68ec"
+hash = "4bb0677ef20424c3a08006cdf70c290e8254d93bcd2c72d6671c5820bdb91fb4"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "693061bb93b6736bb42dcdac5832d28e79b97f6f42b16d982cc97e555f82a398"
+hash = "53d54d60234c39fcda6ff212e3b9eadaaf622d04bd3f3cadf86aec42daeff922"
 metafile = true
 
 [[files]]
